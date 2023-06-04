@@ -1,0 +1,20 @@
+name: Compass
+id: ari:cloud:compass:301bae79-d060-482c-b559-b97ef3a7fc2a:component/5f7900b4-7406-494e-a285-d0b41959603f/81588408-b3c0-4b88-8be8-1eed715afced
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/nitsukg/Compass
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:html
+  - source:github
+customFields:
+  - name: test
+    type: text
+    value: null
